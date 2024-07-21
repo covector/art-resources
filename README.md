@@ -13,7 +13,9 @@
 
 [tomfoxdraws Twitter](https://x.com/tomfoxdraws/media): Anatomy tips. Also wrote an amazing anatomy book.
 
-[下田スケッチ](https://x.com/simodasketch/media): Great, simple drawing (clothes and anatomy) reference (some animated).
+[下田スケッチ Twitter](https://x.com/simodasketch/media): Great, simple drawing (clothes and anatomy) reference (some animated).
+
+[伊豆の美術解剖学者 Twitter](https://x.com/kato_anatomy/media): Ecorche drawings.
 
 [theposearchives DeviantArt](https://www.deviantart.com/theposearchives/gallery): Life figure drawing reference.
 #### Sketchfab 3D Models:
@@ -31,3 +33,8 @@
 - [Skull](https://sketchfab.com/3d-models/detailed-human-skull-2d6feb90e20d4389afb2b885eece0a48)
 - [Male Head Scan](https://sketchfab.com/3d-models/cdbc-reference-male-head-scan-67c21cb7225d478ab46a6b4db99e0348)
 - [Female Sculpt](https://sketchfab.com/3d-models/stylized-anime-female-head-e8d04325a74e46a98a6494abe721a8b2)
+
+## Animation
+[random sakuga](https://x.com/randomsakuga): Anime clips for inspiration.
+
+[sakugabooru](https://www.sakugabooru.com/): Anime clips for inspiration.
