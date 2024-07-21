@@ -18,6 +18,8 @@
 [伊豆の美術解剖学者 Twitter](https://x.com/kato_anatomy/media): Ecorche drawings.
 
 [theposearchives DeviantArt](https://www.deviantart.com/theposearchives/gallery): Life figure drawing reference.
+
+[Anatomy Lab Youtube](https://www.youtube.com/@AnatomyLab): Muscle motion 3D videos.
 #### Sketchfab 3D Models:
 - [Female Ecorche](https://sketchfab.com/3d-models/ecorche-female-musclenames-anatomy-cda17af4be354c8b8375ff0b1b8a5fe5) 
 - [Male Ecorche](https://sketchfab.com/3d-models/ecorche-male-musclenames-anatomy-33162ec759e04d2985dbbdf4ec908d66)
