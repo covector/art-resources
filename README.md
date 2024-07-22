@@ -17,6 +17,8 @@
 
 [伊豆の美術解剖学者 Twitter](https://x.com/kato_anatomy/media): Ecorche drawings.
 
+[anatomy tutorials Twitter](https://x.com/artanatomylab/media): Map muscles on photograph references.
+
 [theposearchives DeviantArt](https://www.deviantart.com/theposearchives/gallery): Life figure drawing reference.
 
 [Anatomy Lab Youtube](https://www.youtube.com/@AnatomyLab): Muscle motion 3D videos.
