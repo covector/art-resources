@@ -21,7 +21,11 @@
 
 [theposearchives DeviantArt](https://www.deviantart.com/theposearchives/gallery): Life figure drawing reference.
 
+Glauco Longhi's Anatomy Studies ([Part1](https://www.artstation.com/artwork/1nbYx2)|[Part2](https://www.artstation.com/artwork/BmvYQk)|[Part3](https://www.artstation.com/artwork/OyaBD8)): 3D anatomy sculpts.
+
 [Anatomy Lab Youtube](https://www.youtube.com/@AnatomyLab): Muscle motion 3D videos.
+
+[Proko's Anatomy Playlist](https://www.youtube.com/playlist?list=PLtG4P3lq8RHFBeVaruf2JjyQmZJH4__Zv): Anatomy tutorial Youtube videos.
 #### Sketchfab 3D Models:
 - [Female Ecorche](https://sketchfab.com/3d-models/ecorche-female-musclenames-anatomy-cda17af4be354c8b8375ff0b1b8a5fe5) 
 - [Male Ecorche](https://sketchfab.com/3d-models/ecorche-male-musclenames-anatomy-33162ec759e04d2985dbbdf4ec908d66)
