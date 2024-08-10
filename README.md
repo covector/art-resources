@@ -9,6 +9,8 @@
 
 漫画素材工房 ([pixiv](https://www.pixiv.net/en/users/16776564/artworks) | [FANBOX](https://www.fanbox.cc/@mangamaterials){[ENG](https://www.pixiv.net/fanbox/creator/25310139)}): Amazing anatomy book-like resource (need subscription, very few free resources). Pixiv page contains excerpts from the FANBOX.
 
+漫画素材工房 Youtube ([Tutorials](https://www.youtube.com/@mangamaterialsyoutube9454) | [Demos](https://www.youtube.com/@mangamaterials-subchannel7272)): Tips and speed-up drawing demonstration by 漫画素材工房.
+
 畳＠atelier Loop ([Twitter](https://x.com/tatami_loop/media) | [pixiv](https://www.pixiv.net/en/users/335258/artworks)): Anatomy reference. Shows skeleton in posed figure.
 
 [tomfoxdraws Twitter](https://x.com/tomfoxdraws/media): Anatomy tips. Also wrote an amazing anatomy book.
