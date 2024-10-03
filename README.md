@@ -27,6 +27,8 @@ Glauco Longhi's Anatomy Studies ([Part1](https://www.artstation.com/artwork/1nbY
 
 [Anatomy Lab Youtube](https://www.youtube.com/@AnatomyLab): Muscle motion 3D videos.
 
+[Chris Jones Youtube](https://www.youtube.com/@chrisjonestube): Hyper-detailed 3D models demo.
+
 [Proko's Anatomy Playlist](https://www.youtube.com/playlist?list=PLtG4P3lq8RHFBeVaruf2JjyQmZJH4__Zv): Anatomy tutorial Youtube videos.
 #### Sketchfab 3D Models:
 - [Female Ecorche](https://sketchfab.com/3d-models/ecorche-female-musclenames-anatomy-cda17af4be354c8b8375ff0b1b8a5fe5) 
