@@ -35,6 +35,7 @@ Glauco Longhi's Anatomy Studies ([Part1](https://www.artstation.com/artwork/1nbY
 - [Male Ecorche](https://sketchfab.com/3d-models/ecorche-male-musclenames-anatomy-33162ec759e04d2985dbbdf4ec908d66)
 - [Skeleton](https://sketchfab.com/3d-models/skeleton-ef853171dc334d3b8cdf93504a1f7e00)
 - [Rib Cage](https://sketchfab.com/3d-models/ribcage-simplification-5-7a5a301809794ee883d6dead3b87aaa0)
+- [Pelvis](https://sketchfab.com/3d-models/pelvis-3d-scan-ee6e3f446510432db5a4b2085ef5dd48)
 
 ### Head
 [FACS](https://melindaozel.com/free-resources/): Facial expression anatomy.  
