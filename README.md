@@ -3,6 +3,8 @@
 ### General
 [Posemaniacs](https://www.posemaniacs.com/): Posed full body and hand 3D models, 3D model timed croquis.
 
+x6ud Pose Search ([Animals](https://x6ud.github.io/) | [Clothed Human](https://x6ud.github.io/pose-search/) | [Nude Male](https://x6ud.github.io/human-anatomy-for-artist-search-helper/) | [Nude Female](https://x6ud.github.io/female-anatomy-for-artist-search-helper/)): Search reference images with a 3D model.
+
 [Anatomy for Sculptors 3D REF](https://ref.anatomy4sculptors.com/): Detailed 3D anatomy models (some are free).
 
 [Anatomy for Sculptors ArtStation](https://www.artstation.com/anatomy4sculptors): Excerpts from the books. Anatomy point/tips.
@@ -23,7 +25,7 @@
 
 [theposearchives DeviantArt](https://www.deviantart.com/theposearchives/gallery): Life figure drawing reference.
 
-Glauco Longhi's Anatomy Studies ([Part1](https://www.artstation.com/artwork/1nbYx2)|[Part2](https://www.artstation.com/artwork/BmvYQk)|[Part3](https://www.artstation.com/artwork/OyaBD8)): 3D anatomy sculpts.
+Glauco Longhi's Anatomy Studies ([MaleHip, Shoulder, Neck, Elbow, Knee](https://www.artstation.com/artwork/1nbYx2) | [Chest, FemaleHip, Back](https://www.artstation.com/artwork/BmvYQk) | [Arm, Back, Abs](https://www.artstation.com/artwork/OyaBD8)): 3D anatomy sculpts.
 
 [Anatomy Lab Youtube](https://www.youtube.com/@AnatomyLab): Muscle motion 3D videos.
 
